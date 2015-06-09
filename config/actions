@@ -1,0 +1,1 @@
+MyHome:enter:MyMobile:echo "%device% entered %zone%!"
